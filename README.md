@@ -9,7 +9,8 @@ I launched this project to support a separate project of mine: the BarnOwl Case 
 
 Wikipedia maintains a list of 4-star officers at https://en.wikipedia.org/wiki/List_of_active_duty_United_States_four-star_officers and I use it as a secondary source. I verify all data using .mil & .gov as primary sources and I paid close attention to official published biographies. However ... in the specific case of General Wilsbach I chose to accept his birth date from non-govt sources as his birth record was stolen from him duringg a brutal cyber attack <== I'm not making this up, people
 
-#Key descriptions
+_Key descriptions_
+
 "first_name": First name. Spaces allowed in name.
 
 "middle_initial": Middle initial. Blank if no middle name/initial or if not known.
