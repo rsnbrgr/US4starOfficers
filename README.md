@@ -31,7 +31,11 @@ _Key descriptions_
 
 "birth_date": The officer's date of birth in ISO 8601 format. Blank if unknown.
 
-"o1_date" "o2_date" "o3_date" "o4_date" "o5_date" "o6_date" "o7_date" "o8_date" "o9_date" "o10_date": The officer's effective date of commission or promotion to each rank, O-1 to O-10, in ISO 8601 format. Blank if unknown but you can always expect the O-10 field to contain a date. Note that some branches publish these dates in an officer's bio while others do not.
+"o1_date" "o2_date" "o3_date" "o4_date" "o5_date" "o6_date" "o7_date" "o8_date" "o9_date" "o10_date", "o11_date": The officer's effective date of commission or promotion to each rank, O-1 to O-11, in ISO 8601 format. Blank if unknown or if they didn't reach that rank. Note that some branches publish these dates in an officer's bio while others do not.
+
+"retire_date": The officer's effective date of retirement.
+
+"o-10_date2", "retire_date2": The offficer's effective date of promotion to O-10 and retirement after returning to duty from a first retirement. Two officers so far have done this.
 
 "official_bio_url": A URL to the officer's official bio. Not all officers have an official bio for their O-10 position, strange as it may seem. In that case you'll find a link to a previous bio.
 
