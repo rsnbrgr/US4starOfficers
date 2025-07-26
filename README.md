@@ -7,6 +7,8 @@ I launched this project to support a separate project of mine: the BarnOwl Case 
 
 Wikipedia maintains a list of 4-star officers at https://en.wikipedia.org/wiki/List_of_active_duty_United_States_four-star_officers and I use it as a secondary source. I verify all data using .mil & .gov as primary sources and I paid close attention to official published biographies. However ... in the specific case of General Wilsbach I chose to accept his birth date from non-govt sources because his birth record was stolen from him during a brutal cyber attack <== I'm not making this up, people
 
+There is also a 27charts.zip file that contains the 27 charts any Air Force officer can consult to see if they fall within (or below) the first standard deviation to make O-10.
+
 _Key descriptions_
 
 "first_name": First name. Spaces allowed in name.
